@@ -1,6 +1,6 @@
 ---
-title: DomisDocs Pro - Produção Completa - Em desenvolvimento
-description: SaaS Boilerplate Next.Js 15 + SaaS Boilerplate + Stripe + Rules + CI/CD + Dashboard.
+title: DomisDocs Pro - Produção Completa - R$197 - Em Desenvolvimento
+description: SaaS Boilerplate Next.Js 15 + Stripe + Rules + CI/CD + Dashboard - R$197 Em Desenvolvimento
 next:
   text: 'Vitrine - &nbsp;Todos os Packs'
   link: '/packs/'
@@ -9,13 +9,13 @@ prev:
   link: '/packs/domisdocs-lite'
 ---
 
-::: info 💎 PRO: SAAS COMPLETO NEXT.JS 15 → &nbsp;ENTREGA DIRETA VIA PRO_KEY
-SaaS Boilerplate completo. Deploy seguro com regras validadas, CI/CD, SSR e Stripe Checkout. Inclui tudo do Lite + produção real.
+::: info 💎 PRO: SAAS COMPLETO NEXT.JS 15 → &nbsp;R$197 - EM DESENVOLVIMENTO - ENTREGA DIRETA VIA PRO_KEY
+SaaS Boilerplate completo. Deploy seguro com regras validadas, CI/CD, SSR e Stripe Checkout. Inclui tudo do Lite + produção real. Status: Em desenvolvimento final - getSignedUrl 5min + POST only.
 :::
 
 <h1>💎 DomisDocs Pro - R$197 - EM DESENVOLVIMENTO</h1>
 
-> Do `ng new` ao deploy em produção com regras seguras, CI/CD, SSR e Stripe. 
+> Do `npx create domis@latest` ao deploy em produção com regras seguras, CI/CD, SSR e Stripe. 
 >
 > O que empresas cobram R$2.000 para configurar.
 
@@ -23,9 +23,9 @@ SaaS Boilerplate completo. Deploy seguro com regras validadas, CI/CD, SSR e Stri
 
 > **Vitrine Pública:** `DomisDocs-Technical` - Documentação Open Source.
 >
-> **Entrega:** Direta via PRO_KEY + `npm create domis@latest` após pagamento na Kiwify.
+> **Entrega:** Direta via PRO_KEY + `npm create domis@latest` após pagamento na Kiwify. Status: Em breve - R$197.
 
-<h2>Lite vs Pro - Referência Documental:</h2>
+<h2>Lite vs Pro - Referência Documental - CONGELADO R$197:</h2>
 
 | O que você precisa em produção | Lite R$49 | Pro R$197 Em Breve |
 | :--- | :---: | :--- |
@@ -35,7 +35,7 @@ SaaS Boilerplate completo. Deploy seguro com regras validadas, CI/CD, SSR e Stri
 | firestore.rules seguro (prod) | ❌ | ✅ avançada |
 | storage.rules seguro (prod) | ❌ | ✅ avançada |
 | GitHub Actions - Auto Deploy | ❌ | ✅ |
-| Cloud Functions - kiwifyWebhook, verifyProKey, ping | ❌ | ✅ Node 22 - getSignedUrl 5min |
+| Cloud Functions - kiwifyWebhook, verifyProKey, ping | ❌ | ✅ Node 22 - getSignedUrl 5min - POST only |
 | Stripe Checkout + Webhook + Customer Portal | ❌ | ✅ |
 | Headers de Segurança HSTS, CSP | ✅ | ✅ |
 | Dashboard SaaS Premium | ❌ | ✅ |
@@ -49,14 +49,17 @@ templates/domisdocs-pro/
 │   ├── components/
 │   ├── lib/
 │   └── assets/
-├── firebase.json → public: "out" + rewrites + headers
-├── .firebaserc  → básica validada
-├── firestore.rules  → básica validada
+├── firebase.json → Frameworks source: "." + headers - sem rewrites SPA
+├── .firebaserc  → validado
+├── firestore.rules  → segura prod avançada - sem if true
+├── storage.rules → segura prod avançada - 5MB + MIME
 ├── next.config.ts  → otimizado Firebase
 ├── postcss.config.mjs  → v4 configurado
 ├── package.json
+├── .github/workflows/deploy.yml → CI/CD Auto Deploy
+└── functions/ → Node 22 - Webhook Kiwify + verifyProKey POST only + getSignedUrl 5min
 ```
-> No Pack: Pro , são mais pastas disponíveis.
+> No Pack: Pro, são mais pastas disponíveis - Dashboard Premium, lib Stripe, etc.
 
 <h3>Dashboard:</h3>
 
@@ -165,7 +168,7 @@ firebase emulators:start --only firestore,storage
 <h2>FAQ:</h2>
 
 ::: details Preciso do Lite antes ❓
-Não. O Pro já inclui tudo do Lite. Lite é porta de entrada. Se vai para produção com cliente, vá direto de Pro.
+Não. O Pro já inclui tudo do Lite. Lite é porta de entrada. Se vai para produção com cliente, vá direto de Pro R$197.
 :::
 
 ::: details Funciona com Angular Universal SSR ❓
@@ -173,15 +176,14 @@ Sim. A pasta functions/ já vem com adapter Angular Universal. No README_PRO.md 
 :::
 
 ::: details As Rules são seguras mesmo ❓
-Sim. Seguem checklist oficial Firebase. Nenhum if true. Teste com emulators antes.
+Sim. Seguem checklist oficial Firebase. Nenhum if true. Teste com emulators antes. O Pro já vem com avançada.
 :::
 
 ::: details Cliente já tem projeto Firebase ❓
-Perfeito. O Pro não cria projeto novo, só injeta .rules e firebase.json otimizado. Roda firebase deploy e pronto.
+Perfeito. O Pro não cria projeto novo, só injeta .rules e firebase.json otimizado com source: "." + headers. Roda firebase deploy e pronto.
 :::
 
-
-<h2>💎 Comprar DomisDocs Pro - R$199</h2>
+<h2>💎 Comprar DomisDocs Pro - R$197 - EM DESENVOLVIMENTO</h2>
 
 <div style="
   margin: 24px 0; 
@@ -198,7 +200,7 @@ Perfeito. O Pro não cria projeto novo, só injeta .rules e firebase.json otimiz
     font-size: 24px; 
     font-weight: 900; 
     margin-bottom: 8px;"
-  > 💎 DOMISDOCS PRO - R$199</h3>
+  > 💎 DOMISDOCS PRO - R$197 - EM DESENVOLVIMENTO</h3>
   <p style="
     color: #9ca3af !important; 
     font-size: 16px; 
@@ -210,9 +212,9 @@ Perfeito. O Pro não cria projeto novo, só injeta .rules e firebase.json otimiz
     font-size: 14px; 
     margin: 12px 0;"
   >
-    ✅ Tudo do Lite + Rules + Hosting + CI/CD + SSR<br/>
-    ✅ Template Enterprise pronto pra cliente<br/>
-    ✅ 6 meses updates
+    ✅ Tudo do Lite + Rules avançadas + Hosting Frameworks + CI/CD + SSR<br/>
+    ✅ Template Enterprise pronto pra cliente + Dashboard Premium<br/>
+    ✅ 6 meses updates + getSignedUrl 5min + POST only
   </p>
   <button disabled style="
     display: inline-block; 
@@ -225,14 +227,18 @@ Perfeito. O Pro não cria projeto novo, só injeta .rules e firebase.json otimiz
     border-radius: 12px; 
     border: none; 
     cursor: not-allowed;"
-  > 🔒 PRO EM BREVE - AGUARDE</button>
+  > 🔒 PRO EM BREVE - R$197 - AGUARDE</button>
   <p style="
     color: #9ca3af !important; 
     font-size: 12px; 
     margin-top: 12px;"
-  > 📦 Botão desabilitado até  finalizar Stripe + Functions Node 22
+  > 📦 Botão desabilitado até finalizar Stripe + Functions Node 22 - getSignedUrl 5min
   </p>
 </div>
+
+::: tip Já comprou o Lite?
+> Envie comprovante do Lite e ganhe cupom de R$49 OFF. Paga só a diferença para o Pro R$197.
+:::
 
 <h2>🛡 Garantia</h2>
 
