@@ -1,6 +1,6 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/Domisnnet/DomisDocs-Technical?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Domisnnet/DomisDocs-Technical?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/Domisnnet/DomisDocs-Technical?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Domisnnet/DomisDocs-Technical-Vue.Js?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Domisnnet/DomisDocs-Technical-Vue.Js?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Domisnnet/DomisDocs-Technical-Vue.Js?style=for-the-badge)
 
 <h1 id="domisdocs">🚀 DomisDocs : Documentação Técnica + DomisPacks</h1>
 
@@ -10,8 +10,8 @@
 ![Tailwind V4](https://img.shields.io/badge/Tailwind-v4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Node.Js](https://img.shields.io/badge/Node.js-20.19%2B-339933?style=flat-square&logo=node.js&logoColor=white)
-[![Licença](https://img.shields.io/badge/License-Private_Commercial_v1.3-red.svg)](https://github.com/Domisnnet/DomisDocs-Technical/blob/main/LICENSE)
-![DomisDocs](https://raw.githubusercontent.com/Domisnnet/DomisDocs-Technical/main/docs/public/images/domisdocs.png)
+[![Licença](https://img.shields.io/badge/License-Private_Commercial_v1.3-red.svg)](https://github.com/Domisnnet/DomisDocs-Technical-Vue.Js/blob/main/LICENSE)
+![DomisDocs](https://raw.githubusercontent.com/Domisnnet/DomisDocs-Technical-Vue.Js/main/docs/public/images/domisdocs.png)
 
 > **Plataforma de Documentação Técnica + Vitrine SaaS.**
 > Este repositório é PÚBLICO e contém apenas a documentação gratuita e a vitrine dos produtos.
@@ -137,16 +137,16 @@ firebase deploy --only hosting
 
 | Fase | Ação | Link / Comando |
 | :--- | :--- | :--- |
-| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/DomisDocs-Technical/fork) |
+| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/DomisDocs-Technical-Vue.Js/fork) |
 | **02** | **Branch** | `git checkout -b feature/Melhoria` |
 | **03** | **Commit** | `git commit -m 'docs: atualizado'` |
 | **04** | **Push** | `git push origin feature/Melhoria` |
-| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/DomisDocs-Technical/compare) |
+| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/DomisDocs-Technical-Vue.Js/compare) |
 
 <h3>🐛 Encontrou um problema?</h3>
 
-[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/DomisDocs-Technical?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/DomisDocs-Technical/issues)
-[![Reportar Erro](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/DomisDocs-Technical/issues/new)
+[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/DomisDocs-Technical-Vue.Js?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/DomisDocs-Technical-Vue.Js/issues)
+[![Reportar Erro](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/DomisDocs-Technical-Vue.Js/issues/new)
 
 
 ---
@@ -186,7 +186,7 @@ São: <code>Framework Packs</code> que sobem os pacotes em <code>Next.Js 15 + Ta
 Explore a documentação no Repositório Oficial:
 
 ![VitePress](https://img.shields.io/badge/VitePress-Vue_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FDomisDocs--Technical-4FC08D?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Domisnnet/DomisDocs-Technical)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FDomisDocs--Technical--Vue.Js-4FC08D?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Domisnnet/DomisDocs-Technical-Vue.Js)
 
 > **Packs Privados são acessados via:** &nbsp; `npm create domis@latest` **+ PRO_KEY.**
 
@@ -208,7 +208,7 @@ Explore a documentação no Repositório Oficial:
 
 Este repositório público contém:
 *   **Documentação  - /docs :** &nbsp;MIT
-*   **Packs - meu-app/ gerado via CLI :** &nbsp; [![Private Commercial](https://img.shields.io/badge/License-Private_Commercial_v1.3-red?style=flat-square)](https://github.com/Domisnnet/DomisDocs-Technical/blob/main/LICENSE)
+*   **Packs - meu-app/ gerado via CLI :** &nbsp; [![Private Commercial](https://img.shields.io/badge/License-Private_Commercial_v1.3-red?style=flat-square)](https://github.com/Domisnnet/DomisDocs-Technical-Vue.Js/blob/main/LICENSE)
 
 > **Uso pessoal, intransferível e não exclusivo.**
 > Pode usar em projetos próprios e de clientes.
@@ -225,7 +225,7 @@ Este repositório público contém:
 Quer saber mais sobre o **DomisDev?**
 
 <a href="https://github.com/Domisnnet">
-  <img src="https://raw.githubusercontent.com/Domisnnet/DomisDocs-Technical/main/docs/public/images/DomisDev.png" width="90" style="border-radius: 50%" alt="DomisDev GitHub">
+  <img src="https://raw.githubusercontent.com/Domisnnet/DomisDocs-Technical-Vue.Js/main/docs/public/images/DomisDev.png" width="90" style="border-radius: 50%" alt="DomisDev GitHub">
 </a>
 
 &nbsp;
