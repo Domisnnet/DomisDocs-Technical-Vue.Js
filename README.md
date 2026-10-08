@@ -6,7 +6,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Documentação_Pública-4CAF50?style=flat-square)
 ![Angular](https://img.shields.io/badge/Angular-20-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Next.Js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js&logoColor=white)
+![Next.Js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.Js&logoColor=white)
 ![Tailwind V4](https://img.shields.io/badge/Tailwind-v4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Node.Js](https://img.shields.io/badge/Node.Js-20.19%2B-339933?style=flat-square&logo=node.Js&logoColor=white)
