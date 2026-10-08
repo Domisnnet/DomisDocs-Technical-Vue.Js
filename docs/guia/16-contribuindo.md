@@ -1,4 +1,4 @@
-Adicione este projeto ao seu "deck" de desenvolvedor!  
+<h1>Adicione este projeto ao seu <code>"deck"</code> de Desenvolvedor!</h1>  
 
 | Fase | Ação | Link / Comando |
 | :---: | :--- | :--- |
@@ -8,7 +8,7 @@ Adicione este projeto ao seu "deck" de desenvolvedor!
 | **04** | **Push** | `git push origin feature/MinhaMelhoria` |
 | **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/DomisDocs/compare) 
 
-### 🐛 Encontrou um problema?
+<h3>🐛 Encontrou um problema?</h3>
 
-[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/DomisDocs?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/Document-Firebase-Hosting/issues)
+[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/DomisDocs?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/Document-Firebase-Hosting/issues)&nbsp;
 [![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/DomisDocs/issues/new) 

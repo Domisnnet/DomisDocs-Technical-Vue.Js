@@ -2,7 +2,7 @@
 title: Créditos, Licença e Perfil
 ---
 
-# 📝 21. Créditos, Licença e Perfil
+<h1>📝 21. Créditos, Licença e Perfil:</h1>
 
 | Atribuição | Detalhe |
 | :--- | :--- |
@@ -15,15 +15,15 @@ title: Créditos, Licença e Perfil
 
 ---
 
-### 📄 Licença
+<h3>📄 Licença:</h3>
 
-[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/DomisDocs?tab=MIT-1-ov-file)
+- Utilize como referência mantendo os devidos créditos:
 
-> Utilize como referência mantendo os devidos créditos.
+ [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/DomisDocs?tab=MIT-1-ov-file)
 
 ---
 
-### 👨‍💻 Conheça o DomisDev
+<h3>👨‍💻 Conheça o DomisDev:</h3>
 
 > Para conhecer meus demais Projetos:
 

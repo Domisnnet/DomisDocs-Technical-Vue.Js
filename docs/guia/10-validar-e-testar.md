@@ -2,11 +2,11 @@
 title: Validar e Testar Localmente
 ---
 
-# 🧪 10. Validar e Testar Localmente
+<h1>🧪 10. Validar e Testar Localmente</h1>
 
-### Antes de publicar
+<h3>Antes de publicar:</h3>
 
-Antes do deploy, você pode testar o Hosting localmente.
+> Antes do deploy, você pode testar o Hosting localmente.
 
 Execute:
 ```bash
@@ -17,7 +17,7 @@ depois:
 firebase emulators:start --only hosting
 ```
 
-O Firebase exibirá uma URL local, normalmente semelhante a:
+> O Firebase exibirá uma URL local, normalmente semelhante a:
 
 ```text
 http://127.0.0.1:5000

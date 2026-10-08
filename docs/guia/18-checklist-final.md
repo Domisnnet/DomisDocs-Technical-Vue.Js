@@ -2,7 +2,7 @@
 title: Checklist Final
 ---
 
-# ✅ 18. Checklist Final — Antes do Deploy
+<h1>✅ 18. Checklist Final — Antes do Deploy:</h1>
 
 - [ ] Angular 20 configurado
 - [ ] Node.js 20.19+ instalado

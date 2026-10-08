@@ -2,9 +2,9 @@
 title: Configurar o Firebase Hosting
 ---
 
-# 🔥 9. Configurar o Firebase Hosting
+<h1>🔥 9. Configurar o Firebase Hosting</h1>
 
-### Inicializar
+<h3>Inicializar:</h3>
 
 Para inicializar Execute:
 ```bash
@@ -21,7 +21,7 @@ Durante o assistente, selecione ou informe:
 | Configure as a single-page app?      | Sim                             |
 | Set up automatic builds with GitHub? | Opcional                        |
 
-Se o projeto já estiver associado ao Firebase e você utilizar:
+> Se o projeto já estiver associado ao Firebase e você utilizar:
 
 ```bash
 firebase init
@@ -38,19 +38,19 @@ Não é necessário selecionar Firestore, Functions, Storage ou outros produtos 
 
 ---
 
-### 🔧 Configurar o `firebase.json`
+<h3>🔧 Configurar o <code>firebase.json</code></h3>
 
-Abra:
+- Abra:
 
 ```text
 firebase.json
 ```
 
-na raiz do projeto.
+- na raiz do projeto.
 
-O valor de `hosting.public` deve corresponder à pasta que contém diretamente o `index.html`.
+> O valor de `hosting.public` deve corresponder à pasta que contém diretamente o `index.html`
 
-### Exemplo com `browser`
+<h3>Exemplo com <code>browser:</code></h3>
 
 Se o build gerar:
 
@@ -79,7 +79,7 @@ utilize:
 }
 ```
 
-### Exemplo sem `browser`
+<h3>Exemplo sem <code>browser:</code></h3>
 
 Se o build gerar:
 
@@ -108,7 +108,7 @@ utilize:
 }
 ```
 
-### Significado das propriedades
+<h3>Significado das propriedades</h3>
 
 | Propriedade   | Finalidade                                |
 | :------------ | :---------------------------------------- |

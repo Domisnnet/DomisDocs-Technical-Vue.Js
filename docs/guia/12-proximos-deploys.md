@@ -2,27 +2,27 @@
 title: Próximos Deploys
 ---
 
-# 🔁 12. Próximos Deploys
+<h1>🔁 12. Próximos Deploys</h1>
 
-Depois que a configuração inicial estiver pronta, os próximos deploys ficam muito mais simples.
+> Depois que a configuração inicial estiver pronta, os próximos deploys ficam muito mais simples.
 
-Execute:
+- Execute:
 
 ```bash
 ng build --configuration production
 firebase deploy --only hosting
 ```
 
-Ou utilize:
+- Ou utilize:
 
 ```bash
 npm run build
 firebase deploy --only hosting
 ```
 
-### Automatizando pelo `package.json`
+<h3>Automatizando pelo <code>package.json:</code></h3>
 
-Você também pode criar um script:
+> Você também pode criar um script:
 
 ```json
 {
@@ -33,29 +33,29 @@ Você também pode criar um script:
 }
 ```
 
-Depois, execute:
+- Depois, execute:
 
 ```bash
 npm run deploy:hosting
 ```
 
-### Deploy de todos os recursos Firebase
+<h3>Deploy de todos os recursos Firebase:</h3>
 
-O comando:
+> O comando:
 
 ```bash
 firebase deploy
 ```
 
-pode publicar outros recursos Firebase configurados no projeto.
-
-Para publicar somente o site, prefira:
+> pode publicar outros recursos Firebase configurados no projeto.
+>
+> Para publicar somente o site, prefira:
 
 ```bash
 firebase deploy --only hosting
 ```
 
-Depois basta rodar:
+- Depois basta rodar:
 
 ```bash
 npm run deploy:hosting

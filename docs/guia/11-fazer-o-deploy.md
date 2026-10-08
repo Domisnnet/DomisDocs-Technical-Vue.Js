@@ -2,9 +2,9 @@
 title: Fazer o Deploy
 ---
 
-# 🚀 11. Fazer o Deploy em Produção
+<h1>🚀 11. Fazer o Deploy em Produção</h1>
 
-Depois de validar o build e o `firebase.json`, Execute:
+> Depois de validar o build e o `firebase.json`, Execute:
 ```bash
 firebase deploy --only hosting
 ```

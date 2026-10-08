@@ -2,11 +2,11 @@
 title: Referências Oficiais
 ---
 
-# 📚 19. Referências Oficiais
+<h1>📚 19. Referências Oficiais:</h1>
 
-Documentações oficiais consultadas e mantidas no **DomisDocs**:
+> Documentações Oficiais consultadas e mantidas no **DomisDocs Thecnical:**
 
-&nbsp;
+---
 
 [![Firebase Hosting](https://img.shields.io/badge/Firebase-Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=6E6E6E)](https://firebase.google.com/docs/hosting)
 

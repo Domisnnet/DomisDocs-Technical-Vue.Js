@@ -2,11 +2,11 @@
 title: Regra Mais Importante
 ---
 
-# 📌 20. Regra Mais Importante
+<h1>📌 20. Regra Mais Importante:</h1>
 
-O valor de: `hosting.public` no `firebase.json` deve apontar para a pasta que contém diretamente o `index.html` gerado pelo build.
+> O valor de: `hosting.public` no `firebase.json` deve apontar para a pasta que contém diretamente o `index.html` gerado pelo build.
 
-Exemplo:
+- Exemplo:
 
 ```text
 dist/
@@ -15,7 +15,7 @@ dist/
         └── index.html
 ```
 
-Então:
+- Então:
 
 ```json
 {
@@ -25,9 +25,9 @@ Então:
 }
 ```
 
-### Se aparecer 404 (`Page Not Found`) → verifique nesta ordem:
+<h3>Se aparecer 404 - `Page Not Found` → verifique nesta ordem:</h3>
 
-Verifique, nesta ordem:
+> Verifique, nesta ordem:
 
 1. O resultado do `ng build`.
 2. A localização real do `index.html`.
@@ -36,7 +36,7 @@ Verifique, nesta ordem:
 5. O projeto Firebase ativo.
 6. Se o deploy foi executado novamente após as alterações.
 
-### Comando dourado
+<h3>🏆 Comando dourado:</h3>
 
 ```powershell
 Get-ChildItem . -Filter index.html -Recurse | Select-Object FullName
