@@ -67,7 +67,7 @@ Para conhecer a Plataforma clique abaixo:
 
 <div align="left">
   <a href="https://domisdocs-6a896.web.app/" target="_blank">
-    <img alt="Botão Acessar" src="https://raw.githubusercontent.com/Domisnnet/DomisDocs-Technical/main/docs/public/images/botao.webp" height="70" width="70" />
+    <img alt="Botão Acessar" src="https://raw.githubusercontent.com/Domisnnet/DomisDocs-Technical-Vue.Js/main/docs/public/images/botao.webp" height="70" width="70" />
   </a>
 </div>
 
