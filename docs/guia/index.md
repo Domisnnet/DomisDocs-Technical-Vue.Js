@@ -45,4 +45,6 @@ title: Guia — Deploy Angular 20 no Firebase Hosting
 
 <h4>Referência:</h4>
 
-> 💡 **Dica:** Comece pela seção **1** e siga na ordem. Cada página é independente e pode ser acessada diretamente pelo menu lateral.
+> `💡 Dica:` Comece pela seção `1` e siga na ordem. 
+>
+> Cada página é independente e pode ser acessada diretamente pelo menu lateral.
