@@ -9,7 +9,7 @@
 ![Next.Js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind V4](https://img.shields.io/badge/Tailwind-v4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Node.Js](https://img.shields.io/badge/Node.js-20.19%2B-339933?style=flat-square&logo=node.js&logoColor=white)
+![Node.Js](https://img.shields.io/badge/Node.Js-20.19%2B-339933?style=flat-square&logo=node.Js&logoColor=white)
 [![Licença](https://img.shields.io/badge/License-Private_Commercial_v1.3-red.svg)](https://github.com/Domisnnet/DomisDocs-Technical-Vue.Js/blob/main/LICENSE)
 ![DomisDocs](https://raw.githubusercontent.com/Domisnnet/DomisDocs-Technical-Vue.Js/main/docs/public/images/domisdocs.png)
 
@@ -41,7 +41,7 @@ Esta plataforma resolve o deploy em 2 camadas isoladas:
 | Camada | O que é | Onde está | Acesso |
 | :--- | :--- | :--- | :--- |
 | **DomisDocs** | Documentação gratuita Angular 20 + Firebase Hosting | `/docs` deste repo | ✅ Público |
-| **DomisPacks Lite** | Boilerplate Next.js 15 + Tailwind v4 + Firebase | Repo Privado via CLI | 🔒 PRO_KEY Lite |
+| **DomisPacks Lite** | Boilerplate Next.Js 15 + Tailwind v4 + Firebase | Repo Privado via CLI | 🔒 PRO_KEY Lite |
 | **DomisPacks Pro** | Boilerplate Completo + Stripe + Rules + SSR + CI/CD | Repo Privado via CLI | 🔒 PRO_KEY Pro |
 
 > ⚠ **Este README é uma vitrine sem código.**
@@ -56,7 +56,7 @@ Esta plataforma resolve o deploy em 2 camadas isoladas:
 | Camada | Tecnologias | Descrição |
 | :--- | :--- | :---  |
 | **DomisPacks Free** | `Angular 20` + `VitePress` | Guia SPA documentado                      |
-| **DomisPacks Lite** | `Next.js 15` + `Tailwind v4` + `shadcn/ui` | `App Router` base limpa   |
+| **DomisPacks Lite** | `Next.Js 15` + `Tailwind v4` + `shadcn/ui` | `App Router` base limpa   |
 | **DomisPacks Pro**  | `Stripe` + `Firebase Functions` + `SSR` | Lite + Checkout e `Functions`|
 
 ---
@@ -87,7 +87,7 @@ Para conhecer a Plataforma clique abaixo:
 
 <h2 id="destaques-tecnicos">5. 💻 Destaques Técnicos</h2>
 
-**O Problema:** Angular 20 gera em `dist/.../browser/` e Next.js 15 gera em `.next`. Misturar os dois `firebase.json` quebra o deploy.
+**O Problema:** Angular 20 gera em `dist/.../browser/` e Next.Js 15 gera em `.next`. Misturar os dois `firebase.json` quebra o deploy.
 
 **A Solução:** Cada stack tem seu `firebase.json` validado isolado no seu repo privado. Zero confusão.
 
@@ -170,7 +170,7 @@ Encaminha todas as URLs para o <code>index.html</code>, permitindo o Angular Rou
 
 <details>
 <summary><strong>Qual a diferença entre Lite e Pro ❓</strong></summary>
-- Lite: Next 15 + Tailwind v4 + shadcn - base limpa.
+- Lite: Next.Js 15 + Tailwind v4 + shadcn - base limpa.
 - Pro: Tudo do Lite + Stripe Checkout + Firebase Functions + liberação automática via Kiwify.
 </details>
 
@@ -185,7 +185,7 @@ São: <code>Framework Packs</code> que sobem os pacotes em <code>Next.Js 15 + Ta
 
 Explore a documentação no Repositório Oficial:
 
-![VitePress](https://img.shields.io/badge/VitePress-Vue_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)
+![VitePress](https://img.shields.io/badge/VitePress-Vue_3-4FC08D?style=for-the-badge&logo=vue.Js&logoColor=fff)
 [![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FDomisDocs--Technical--Vue.Js-4FC08D?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Domisnnet/DomisDocs-Technical-Vue.Js)
 
 > **Packs Privados são acessados via:** &nbsp; `npm create domis@latest` **+ PRO_KEY.**
@@ -199,7 +199,7 @@ Explore a documentação no Repositório Oficial:
 | **Documentação** | **DomisDev** | Guia elaborado e testado |
 | **Infraestrutura** | **Firebase** | Hospedagem e cloud |
 | **Framework Docs** | **Angular** | Plataforma SPA |
-| **Framework Packs** | **Next.js 15 + Tailwind v4** | Stack dos Packs Lite e Pro |
+| **Framework Packs** | **Next.Js 15 + Tailwind v4** | Stack dos Packs Lite e Pro |
 | **Referência** | **Shadow-Flip-Angular** | Projeto real de exemplo |
 
 ---
