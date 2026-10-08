@@ -1,6 +1,6 @@
 ---
-title: DomisPacks Lite - Next.Js 15 Starter
-description: Boilerplate Next.Js 15 + SaaS Boilerplate
+title: DomisPacks Lite - Next.js 15 Starter
+description: Boilerplate Next.js 15 + SaaS Boilerplate
 next:
   text: "💎 DomisDocs Pro - &nbsp;R$197 - Em Breve"
   link: "/packs/domispacks-pro"
@@ -9,8 +9,8 @@ prev:
   link: "/packs/"
 ---
 
-::: info 🚀 LITE: NEXT.JS 15 STARTER → &nbsp;ENTREGA DIRETA VIA PRO_KEY
-> Next.Js 15 + SaaS Boilerplate. 
+::: info 🚀 LITE: NEXT.JS 15 STARTER → &nbsp;ENTREGA DIRETA VIA `PRO_KEY`
+> `Next.js 15` + SaaS Boilerplate. 
 >
 > Deploy otimizado em 5 minutos.
 :::
@@ -18,13 +18,13 @@ prev:
 
 <h1>🚀 DomisPacks Lite - R$49</h1>
 
-- Fix em 5 minutos para `Could not find public directory` + 404 SPA + Starter Next.Js 15 pronto.
+- Fix em 5 minutos para `Could not find public directory` + `404 SPA` + Starter `Next.js 15` pronto.
 
 <h2>Referências:</h2>
 
 > **Vitrine Pública:** &nbsp;`DomisDocs-Technical` - Documentação Open Source.
 >
-> **Entrega:** Direta via PRO_KEY + &nbsp;`npm create domis@latest` após pagamento na Kiwify.
+> **Entrega:** Direta via `PRO_KEY` + &nbsp;`npm create domis@latest` após pagamento na Kiwify.
 
 <h2>O que esta página documenta?</h2>
 
@@ -32,10 +32,10 @@ prev:
 
 <h3>Stack do Lite:</h3>
 
-- Next.Js 15 + App Router + Turbopack
-- Tailwind CSS v4 + shadcn/ui
-- Firebase Hosting Frameworks + firebase.json otimizado
-- Headers otimizados - **sem rewrites SPA**
+- `Next.js 15` + `App Router` + `Turbopack`
+- `Tailwind v4` + `shadcn/ui`
+- `Firebase Hosting` Frameworks + `firebase.json` otimizado
+- Headers otimizados - sem `rewrites SPA`
 
 <h3>O que vem no Lite?</h3>
 
@@ -105,12 +105,12 @@ npm create domis@latest
 <h4>Você escolhe os Packs:</h4>
 
 ```
-✔ 🔥 DomisPacks Lite — Next.Js 15 + SaaS
+✔ 🔥 DomisPacks Lite — Next.js 15 + SaaS
 ```
 
 <h4>O CLI valida a key, baixa o ZIP e monta a pasta:</h4>
 
-- Cola a PRO_KEY
+- Cola a `PRO_KEY`
 - Define o nome do projeto
 
 <h3>Depois:</h3>
@@ -144,35 +144,35 @@ npm create domis@latest
 
 <h2>FAQ - Lite</h2>
 
-::: details Funciona no Next.Js 15 com App Router ❓
-Sim. Validado no `Next.Js 15` com `App Router` + `Turbopack`&nbsp;. O `firebase.json` já vem com source: "." para Frameworks.
+::: details Funciona no `Next.js 15` com `App Router` ❓
+Sim. Validado no `Next.js 15` com `App Router` + `Turbopack`&nbsp;. O `firebase.json` já vem com source: "." para Frameworks.
 :::
 
 ::: details Como recebo o acesso ❓
-Você paga na Kiwify e recebe sua PRO_KEY por e-mail na hora , junto com o acesso a Plataforma da Kiwify.
+Você paga na Kiwify e recebe sua `PRO_KEY` por e-mail na hora , junto com o acesso a Plataforma da Kiwify.
 :::
 
 ::: details O que acontece depois que eu pagar ❓
-- 1. Kiwify envia PRO_KEY na hora
+- 1. Kiwify envia `PRO_KEY` na hora
 - 2. Você roda `npm create domis@latest`
-- 3. Digita a PRO_KEY e o template é baixado
+- 3. Digita a `PRO_KEY` e o template é baixado
 :::
 
 ::: details Qual a diferença para o Pro ❓
-- Lite = `Next.Js 15 Starter` + deploy otimizado: `firebase.json` + `rewrites`. 
+- Lite = `Next.js 15` Starter + deploy otimizado: `firebase.json` + `rewrites`. 
 - Pro = Lite + `firestore.rules` + `storage.rules` + `CI/CD` + `Stripe` + `Kiwify Webhook` + `Dashboard SaaS`
 :::
 
 <h2>Comparativo:</h2>
 
-| Recurso                               | Lite R$49         |
-| :------------------------------------ | :---------------- |
-| Fix public directory + 404 SPA        | ✅               |
-| Next.Js 15 + Tailwind v4 + shadcn/ui  | ✅ Starter       |
-| firestore.rules seguro                | ❌               |
-| storage.rules                         | ❌               |
-| GitHub Actions                        | ❌               |
-| Functions + Stripe                    | ❌               |
+| Recurso                                   | Lite R$49         |
+| :---------------------------------------- | :---------------- |
+| Fix public directory + 404 SPA            | ✅                |
+| `Next.js 15` + `Tailwind v4` + `shadcn/ui`| ✅ Starter        |
+| `firestore.rules` seguro                  | ❌                |
+| `storage.rules`                           | ❌                |
+| `GitHub Actions`                          | ❌                |
+| `Functions` + `Stripe`                    | ❌                |
 
 <h2>💬 O que quem comprou está dizendo:</h2>
 
@@ -219,7 +219,7 @@ Você paga na Kiwify e recebe sua PRO_KEY por e-mail na hora , junto com o acess
         font-style: italic; 
         color: #e5e7eb;"
       >
-        "Tava há 2 dias travado no erro <code>Could not find public directory</code> no Next.Js 15. Tentei de tudo no Stack Overflow. Comprei o Lite por R$49 achando que era gambiarra, mas é o <code>firebase.json</code> certo mesmo. Copiei, dei <code>npm run build</code> e <code>firebase deploy --only hosting</code> e subiu de primeira. Valeu cada centavo."
+        "Tava há 2 dias travado no erro <code>Could not find public directory</code> no Next.js 15. Tentei de tudo no Stack Overflow. Comprei o Lite por R$49 achando que era gambiarra, mas é o <code>firebase.json</code> certo mesmo. Copiei, dei <code>npm run build</code> e <code>firebase deploy --only hosting</code> e subiu de primeira. Valeu cada centavo."
       </p>
       <div style="
         display: flex; 
@@ -259,7 +259,7 @@ Você paga na Kiwify e recebe sua PRO_KEY por e-mail na hora , junto com o acess
     font-size: 16px; 
     font-weight: 700; 
     margin: 8px 0;"
-  > Fix Next.Js 15 + Tailwind v4 + shadcn em 5 minutos</p>
+  > Fix Next.js 15 + Tailwind v4 + shadcn em 5 minutos</p>
   <p style="
     color: #e5e7eb !important; 
     font-size: 14px; 
@@ -297,4 +297,4 @@ Conheça o Pro R$197 - EM BREVE com `Rules` + `CI/CD` + `Stripe` + `Dashboard.`
 
 <h2>🛡 Garantia</h2>
 
-> Todos os packs têm **7 dias de garantia incondicional** via Kiwify.
+> Todos os packs têm `7 dias de garantia incondicional` via Kiwify.
