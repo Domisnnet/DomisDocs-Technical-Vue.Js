@@ -1,9 +1,9 @@
 ---
-title: DomisDocs Lite - Next.Js 15 Starter
+title: DomisPacks Lite - Next.Js 15 Starter
 description: Boilerplate Next.Js 15 + SaaS Boilerplate
 next:
   text: "💎 DomisDocs Pro - &nbsp;R$197 - Em Breve"
-  link: "/packs/domisdocs-pro"
+  link: "/packs/domispacks-pro"
 prev:
   text: "Vitrine - &nbsp;Todos os Packs"
   link: "/packs/"
@@ -16,7 +16,7 @@ prev:
 :::
 &nbsp;
 
-<h1>🚀 DomisDocs Lite - R$49</h1>
+<h1>🚀 DomisPacks Lite - R$49</h1>
 
 - Fix em 5 minutos para `Could not find public directory` + 404 SPA + Starter Next.Js 15 pronto.
 
@@ -40,13 +40,13 @@ prev:
 <h3>O que vem no Lite?</h3>
 
 ```bash
-templates/domisdocs-lite/
+templates/domispacks-lite/
 ├── src/
 │   ├── app/
 │   ├── components/
 │   ├── lib/
 │   └── assets/
-├── firebase.json → Frameworks (source: ".") + headers
+├── firebase.json → Frameworks - source: "." + headers
 ├── .firebaserc
 ├── next.config.ts  → otimizado Firebase
 ├── postcss.config.mjs  → v4 configurado
@@ -98,14 +98,14 @@ npm create domis@latest
 <h3>CLI faz :</h3>
 
 ```
-✔ DomisPacks Technical v1.0.52
+✔ DomisPacks Technical v1.0.55
 ✔ Qual pack você quer acelerar hoje?
 ```
 
 <h4>Você escolhe os Packs:</h4>
 
 ```
-✔ 🔥 DomisDocs Lite — Next.Js 15 + SaaS
+✔ 🔥 DomisPacks Lite — Next.Js 15 + SaaS
 ```
 
 <h4>O CLI valida a key, baixa o ZIP e monta a pasta:</h4>
@@ -145,7 +145,7 @@ npm create domis@latest
 <h2>FAQ - Lite</h2>
 
 ::: details Funciona no Next.Js 15 com App Router ❓
-Sim. Validado no `Next.Js 15` com App Router + Turbopack. O `firebase.json` já vem com source: "." para Frameworks.
+Sim. Validado no `Next.Js 15` com `App Router` + `Turbopack`&nbsp;. O `firebase.json` já vem com source: "." para Frameworks.
 :::
 
 ::: details Como recebo o acesso ❓
@@ -237,7 +237,7 @@ Você paga na Kiwify e recebe sua PRO_KEY por e-mail na hora , junto com o acess
   </div>
 </div>
 
-<h2>🛒 Comprar DomisDocs Lite - R$49</h2>
+<h2>🛒 Comprar DomisPacks Lite - R$49</h2>
 
 <div style="
   margin: 24px 0; 
@@ -253,7 +253,7 @@ Você paga na Kiwify e recebe sua PRO_KEY por e-mail na hora , junto com o acess
     font-size: 24px; 
     font-weight: 900; 
     margin-bottom: 8px;"
-  > 🔥 DOMISDOCS LITE - R$49</h3>
+  > 🔥 DOMISPACKS LITE - R$49</h3>
   <p style="
     color: #FFD700 !important; 
     font-size: 16px; 
@@ -291,8 +291,8 @@ Você paga na Kiwify e recebe sua PRO_KEY por e-mail na hora , junto com o acess
 &nbsp;
 
 ::: tip Quer produção completa?
-Conheça o Pro R$197 ( EM BREVE ) com Rules + CI/CD + Stripe + Dashboard. 
-> Veja em [DomisDocs Pro →](/packs/domisdocs-pro)
+Conheça o Pro R$197 - EM BREVE com `Rules` + `CI/CD` + `Stripe` + `Dashboard.` 
+> Veja em [DomisPacks Pro →](/packs/domispacks-pro)
 :::
 
 <h2>🛡 Garantia</h2>

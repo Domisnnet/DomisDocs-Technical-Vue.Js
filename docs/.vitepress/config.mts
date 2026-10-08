@@ -62,11 +62,11 @@ export default defineConfig({
       ],
       '/packs/': [
         {
-          text: '🛒 DomisDocs Packs Premium',
+          text: '🛒 DomisPacks Premium',
           items: [
-            { text: 'Vitrine - Todos os Packs', link: '/packs/' },
-            { text: 'DomisDocs Lite', link: '/packs/domisdocs-lite' },
-            { text: 'DomisDocs Pro', link: '/packs/domisdocs-pro' }
+            { text: 'Vitrine Tecnica', link: '/packs/' },
+            { text: 'DomisPacks Lite', link: '/packs/domispacks-lite' },
+            { text: 'DomisPacks Pro', link: '/packs/domispacks-pro' }
           ]
         }
       ]

@@ -1,19 +1,19 @@
 ---
-title: DomisDocs Pro - Produção Completa - R$197 - Em Desenvolvimento
+title: DomisPacks Pro - Produção Completa - R$197 - Em Desenvolvimento
 description: SaaS Boilerplate Next.Js 15 + Stripe + Rules + CI/CD + Dashboard - R$197 Em Desenvolvimento
 next:
   text: 'Vitrine - &nbsp;Todos os Packs'
   link: '/packs/'
 prev:
-  text: '🚀 DomisDocs Lite - &nbsp;R$49'
-  link: '/packs/domisdocs-lite'
+  text: '🚀 DomisPacks Lite - &nbsp;R$49'
+  link: '/packs/domispacks-lite'
 ---
 
 ::: info 💎 PRO: SAAS COMPLETO NEXT.JS 15 → &nbsp;R$197 - EM DESENVOLVIMENTO - ENTREGA DIRETA VIA PRO_KEY
 SaaS Boilerplate completo. Deploy seguro com regras validadas, CI/CD, SSR e Stripe Checkout. Inclui tudo do Lite + produção real. Status: Em desenvolvimento final - getSignedUrl 5min + POST only.
 :::
 
-<h1>💎 DomisDocs Pro - R$197 - EM DESENVOLVIMENTO</h1>
+<h1>💎 DomisPacks Pro - R$197 - EM DESENVOLVIMENTO</h1>
 
 > Do `npx create domis@latest` ao deploy em produção com regras seguras, CI/CD, SSR e Stripe. 
 >
@@ -43,7 +43,7 @@ SaaS Boilerplate completo. Deploy seguro com regras validadas, CI/CD, SSR e Stri
 <h2>O que vem no Pro:</h2>
 
 ```bash
-templates/domisdocs-pro/
+templates/domispacks-pro/
 ├── src/
 │   ├── app/
 │   ├── components/
@@ -59,7 +59,7 @@ templates/domisdocs-pro/
 ├── .github/workflows/deploy.yml → CI/CD Auto Deploy
 └── functions/ → Node 22 - Webhook Kiwify + verifyProKey POST only + getSignedUrl 5min
 ```
-> No Pack: Pro, são mais pastas disponíveis - Dashboard Premium, lib Stripe, etc.
+> No Pack: Pro, são mais pastas disponíveis - `Dashboard Premium` , `lib Stripe` , etc.
 
 <h3>Dashboard:</h3>
 
@@ -82,14 +82,14 @@ npm create domis@latest
 <h3>CLI faz :</h3>
 
 ```
-✔ DomisPacks Technical v1.0.52
+✔ DomisPacks Technical v1.0.55
 ✔ Qual pack você quer acelerar hoje?
 ```
 
 <h4>Você escolhe os Packs:</h4>
 
 ```
-✔ 🔥 DomisDocs Lite — Next.Js 15 + SaaS
+✔ 🔥 DomisPacks Lite — Next.Js 15 + SaaS
 ```
 
 <h4>O CLI valida a key, baixa o ZIP e monta a pasta:</h4>
@@ -183,7 +183,7 @@ Sim. Seguem checklist oficial Firebase. Nenhum if true. Teste com emulators ante
 Perfeito. O Pro não cria projeto novo, só injeta .rules e firebase.json otimizado com source: "." + headers. Roda firebase deploy e pronto.
 :::
 
-<h2>💎 Comprar DomisDocs Pro - R$197 - EM DESENVOLVIMENTO</h2>
+<h2>💎 Comprar DomisPacks Pro - R$197 - EM DESENVOLVIMENTO</h2>
 
 <div style="
   margin: 24px 0; 
@@ -200,7 +200,7 @@ Perfeito. O Pro não cria projeto novo, só injeta .rules e firebase.json otimiz
     font-size: 24px; 
     font-weight: 900; 
     margin-bottom: 8px;"
-  > 💎 DOMISDOCS PRO - R$197 - EM DESENVOLVIMENTO</h3>
+  > 💎 DOMISPACKS PRO - R$197 - EM DESENVOLVIMENTO</h3>
   <p style="
     color: #9ca3af !important; 
     font-size: 16px; 
@@ -232,7 +232,7 @@ Perfeito. O Pro não cria projeto novo, só injeta .rules e firebase.json otimiz
     color: #9ca3af !important; 
     font-size: 12px; 
     margin-top: 12px;"
-  > 📦 Botão desabilitado até finalizar Stripe + Functions Node 22 - getSignedUrl 5min
+  > 📦 Botão desabilitado até finalizar <code>Stripe</code> + <code>Functions Node 22</code> - getSignedUrl 5min
   </p>
 </div>
 

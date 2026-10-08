@@ -3,12 +3,12 @@ title: Packs Premium - Vitrine Oficial
 description: Templates prontos para produção - Next.Js 15 + SaaS Boilerplate.
 outline: deep
 next:
-  text: '🚀 DomisDocs Lite - &nbsp;R$49'
-  link: '/packs/domisdocs-lite'
+  text: '🚀 DomisPacks Lite - &nbsp;R$49'
+  link: '/packs/domispacks-lite'
 prev: false
 ---
 
-::: info 📦 VITRINE: DOMISDOCS - NEXT.JS 15 + SAAS BOILERPLATE
+::: info 📦 DOMISPACKS - NEXT.JS 15 + SAAS BOILERPLATE
 `Loja Oficial` &nbsp;de templates validados em produção. 
 > Todos entregues via PRO_KEY após pagamento na Kiwify. 
 >
@@ -17,13 +17,13 @@ prev: false
 
 <h1>🛒 Packs Premium - Next.Js 15 + SaaS Boilerplate</h1>
 
-> **Vitrine Pública:** &nbsp;`DomisDocs-Technical` → &nbsp;Documentação aberta + Firebase. 
+> **Vitrine Pública:** &nbsp;`DomisDocs-Technical` → &nbsp;Documentação Open Source + Firebase. 
 
 <h2>O que esta plataforma contém:</h2>
 
 <h3>1. DomisDocs-Technical  - Público:</h3>
 
-- Documentação Open Source + Firebase Hosting + Functions Node 22. 
+- Documentação Open Source + Firebase Hosting + Functions &nbsp;`Node 22.`
 
 > É aqui que está o docs/.vitepress/dist. Deploy &nbsp;`--only hosting`
 
@@ -38,7 +38,7 @@ Packs disponíveis em: &nbsp;`packs` na Plataforma:
 
 <h2>Packs Disponíveis:</h2>
 
-<h3>🚀 DomisDocs Lite - &nbsp;R$49</h3>
+<h3>🚀 DomisPacks Lite - &nbsp;R$49</h3>
 
 **Next.Js 15 Starter - Fix essencial + Starter Next.Js 15 + Tailwind v4**
 
@@ -47,17 +47,17 @@ Resolve:
 - Could not find public directory: dist/seu-app/browser
 - 404 on refresh nas rotas SPA
 - firebase.json com Frameworks + headers + cache
-- Next.Js 15 + Tailwind v4 + shadcn/ui + Firebase Hosting Frameworks
+- `Next.Js 15` + `Tailwind v4` + `shadcn/ui` + `Firebase Hosting Frameworks`
 
-> Ideal para: Subir projeto hoje em 5 minutos e já começar SaaS em Next.Js 15.
+> Ideal para: Subir projeto hoje em 5 minutos e já começar SaaS em `Next.Js 15.`
 
 Entrega: Via PRO_KEY + &nbsp;`npm create domis@latest`
 
-[📖 Ver Detalhes e Comprar Lite →](/packs/domisdocs-lite)
+[📖 Ver Detalhes e Comprar Lite →](/packs/domispacks-lite)
 
 ---
 
-<h3>💎 DomisDocs Pro - R$197 - EM DESENVOLVIMENTO</h3>
+<h3>💎 DomisPacks Pro - R$197 - EM DESENVOLVIMENTO</h3>
 
 **SaaS Completo Next.Js 15 - Em breve**
 
@@ -69,7 +69,7 @@ Tudo do Lite +
 - Headers de Segurança HSTS, CSP
 - SaaS Boilerplate Next.Js 15 + Tailwind v4 + Stripe + PRO_KEY Automática + Dashboard Premium
 
-> Status: Em desenvolvimento final - Lançamento em breve. Stripe + Functions Node 22.
+> Status: Em desenvolvimento final - Lançamento em breve. Stripe + Functions `Node 22.`
 
 [💎 Ver Roadmap do Pro →](/packs/domisdocs-pro)
 

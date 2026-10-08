@@ -71,11 +71,7 @@ features:
 }
 
 @media (max-width: 960px) {
-  .VPHomeHero .name {
-    font-size: 48px !important;
-  }
-  .VPHomeHero .text {
-    font-size: 28px !important;
-  }
+  .VPHomeHero .name { font-size: 48px !important; }
+  .VPHomeHero .text { font-size: 28px !important; }
 }
 </style>
