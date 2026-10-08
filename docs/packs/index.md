@@ -71,7 +71,7 @@ Tudo do Lite +
 
 > Status: Em desenvolvimento final - Lançamento em breve. Stripe + Functions `Node 22.`
 
-[💎 Ver Roadmap do Pro →](/packs/domisdocs-pro)
+[💎 Ver Roadmap do Pro →](/packs/domispacks-pro)
 
 ---
 
