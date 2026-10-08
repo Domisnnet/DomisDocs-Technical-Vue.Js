@@ -1,6 +1,6 @@
 ---
 title: DomisPacks Pro - Produção Completa - R$197 - Em Desenvolvimento
-description: SaaS Boilerplate Next.Js 15 + Stripe + Rules + CI/CD + Dashboard - R$197 Em Desenvolvimento
+description: SaaS Boilerplate Next.js 15 + Stripe + Rules + CI/CD + Dashboard - R$197 Em Desenvolvimento
 next:
   text: 'Vitrine - &nbsp;Todos os Packs'
   link: '/packs/'
@@ -9,13 +9,13 @@ prev:
   link: '/packs/domispacks-lite'
 ---
 
-::: info 💎 PRO: SAAS COMPLETO NEXT.JS 15 → &nbsp;R$197 - EM DESENVOLVIMENTO - ENTREGA DIRETA VIA PRO_KEY
-SaaS Boilerplate completo. Deploy seguro com regras validadas, CI/CD, SSR e Stripe Checkout. Inclui tudo do Lite + produção real. Status: Em desenvolvimento final - getSignedUrl 5min + POST only.
+::: info 💎 PRO: SAAS COMPLETO NEXT.JS 15 → &nbsp;R$197 `EM DESENVOLVIMENTO` ENTREGA DIRETA VIA PRO_KEY
+SaaS Boilerplate completo. Deploy seguro com regras validadas , `&nbsp;CI/CD`&nbsp; , `&nbsp;SSR`&nbsp; e `&nbsp;Stripe Checkout`&nbsp;. Inclui tudo do Lite + produção real. Status: Em desenvolvimento final - `&nbsp;getSignedUrl`&nbsp; 5min + POST only.
 :::
 
-<h1>💎 DomisPacks Pro - R$197 - EM DESENVOLVIMENTO</h1>
+<h1>💎 DomisPacks Pro - R$197 <code>EM DESENVOLVIMENTO</code></h1>
 
-> Do `npx create domis@latest` ao deploy em produção com regras seguras, CI/CD, SSR e Stripe. 
+> Do `npx create domis@latest` ao deploy em produção com regras seguras , `CI/CD` , `SSR` e `Stripe.` 
 >
 > O que empresas cobram R$2.000 para configurar.
 
@@ -23,20 +23,20 @@ SaaS Boilerplate completo. Deploy seguro com regras validadas, CI/CD, SSR e Stri
 
 > **Vitrine Pública:** `DomisDocs-Technical` - Documentação Open Source.
 >
-> **Entrega:** Direta via PRO_KEY + `npm create domis@latest` após pagamento na Kiwify. Status: Em breve - R$197.
+> **Entrega:** Direta via `PRO_KEY` + `npm create domis@latest` após pagamento na Kiwify. Status: `Em breve` - R$197.
 
-<h2>Lite vs Pro - Referência Documental - CONGELADO R$197:</h2>
+<h2>Lite vs Pro - Referência Documental:</h2>
 
 | O que você precisa em produção | Lite R$49 | Pro R$197 Em Breve |
 | :--- | :---: | :--- |
 | Fix public directory + 404 SPA | ✅ | ✅ |
 | Cache 1 ano + Compressão | ✅ | ✅ |
-| Next.Js 15 + Tailwind v4 + shadcn | ✅ Starter | ✅ SaaS Completo |
-| firestore.rules seguro (prod) | ❌ | ✅ avançada |
-| storage.rules seguro (prod) | ❌ | ✅ avançada |
-| GitHub Actions - Auto Deploy | ❌ | ✅ |
-| Cloud Functions - kiwifyWebhook, verifyProKey, ping | ❌ | ✅ Node 22 - getSignedUrl 5min - POST only |
-| Stripe Checkout + Webhook + Customer Portal | ❌ | ✅ |
+| `Next.js 15` + `Tailwind v4` + `shadcn` | ✅ Starter | ✅ SaaS Completo |
+| `firestore.rules` seguro (prod) | ❌ | ✅ avançada |
+| `storage.rules` seguro (prod) | ❌ | ✅ avançada |
+| `GitHub Actions` - Auto Deploy | ❌ | ✅ |
+| `Cloud Functions` - `kiwifyWebhook` , `verifyProKey` , `ping` | ❌ | ✅ Node 22 - getSignedUrl 5min|
+| `Stripe Checkout` + `Webhook` + Customer Portal | ❌ | ✅ |
 | Headers de Segurança HSTS, CSP | ✅ | ✅ |
 | Dashboard SaaS Premium | ❌ | ✅ |
 
@@ -64,10 +64,10 @@ templates/domispacks-pro/
 <h3>Dashboard:</h3>
 
 O Pro entrega o Dashboard SaaS com:
-- Sidebar: Visão Geral, Analytics, Projetos, Equipe, Assinatura, Configurações ,etc
+- Sidebar: Visão Geral , Analytics , Projetos , Equipe , Assinatura , Configurações , etc
 - Header: Search + Bell + Avatar
-- Cards: Projetos Ativos, Segurança 100%, Componentes 48, Plano
-- Stack UI: Next.Js 15 + Tailwind v4 + lucide-react + shadcn/ui
+- Cards: Projetos Ativos , Segurança 100% , Componentes 48 , Plano
+- Stack UI: `Next.js 15` + `Tailwind v4` + `lucide-react` + `shadcn/ui`
 
 <h2>Instalação:</h2>
 
@@ -89,12 +89,12 @@ npm create domis@latest
 <h4>Você escolhe os Packs:</h4>
 
 ```
-✔ 🔥 DomisPacks Lite — Next.Js 15 + SaaS
+✔ 🔥 DomisPacks Lite — Next.js 15 + SaaS
 ```
 
 <h4>O CLI valida a key, baixa o ZIP e monta a pasta:</h4>
 
-- Cola a PRO_KEY
+- Cola a `PRO_KEY`
 - Define o nome do projeto
 
 > Ou:
@@ -103,7 +103,7 @@ npm create domis@latest
 ✔ 🔥 DomisDocs PRO — Stripe + Rules
 ```
 
-- Cola a PRO_KEY
+- Cola a `PRO_KEY`
 - Define o nome do projeto
 
 <h3>Depois:</h3>
@@ -183,7 +183,7 @@ Sim. Seguem checklist oficial Firebase. Nenhum if true. Teste com emulators ante
 Perfeito. O Pro não cria projeto novo, só injeta .rules e firebase.json otimizado com source: "." + headers. Roda firebase deploy e pronto.
 :::
 
-<h2>💎 Comprar DomisPacks Pro - R$197 - EM DESENVOLVIMENTO</h2>
+<h2>💎 Comprar DomisPacks Pro - R$197 <code>EM DESENVOLVIMENTO</code></h2>
 
 <div style="
   margin: 24px 0; 
@@ -242,4 +242,4 @@ Perfeito. O Pro não cria projeto novo, só injeta .rules e firebase.json otimiz
 
 <h2>🛡 Garantia</h2>
 
-> Todos os packs têm **7 dias de garantia incondicional** via Kiwify.
+> Todos os packs têm `7 dias de garantia incondicional` via Kiwify.
