@@ -40,9 +40,9 @@ Esta plataforma resolve o deploy em 2 camadas isoladas:
 
 | Camada | O que é | Onde está | Acesso |
 | :--- | :--- | :--- | :--- |
-| **DomisDocs** | Documentação gratuita Angular 20 + Firebase Hosting | `/docs` deste repo | ✅ Público |
-| **DomisPacks Lite** | Boilerplate Next.Js 15 + Tailwind v4 + Firebase | Repo Privado via CLI | 🔒 PRO_KEY Lite |
-| **DomisPacks Pro** | Boilerplate Completo + Stripe + Rules + SSR + CI/CD | Repo Privado via CLI | 🔒 PRO_KEY Pro |
+| **DomisDocs** | Documentação gratuita `Angular 20` + `Firebase Hosting` | `/docs` deste repo | ✅ Público |
+| **DomisPacks Lite** | Boilerplate `Next.Js 15` + `Tailwind v4` + `Firebase` | Repo Privado via CLI | 🔒 PRO_KEY Lite |
+| **DomisPacks Pro** | Boilerplate Completo + `Stripe` + `Rules` + `SSR` + `CI/CD` | Repo Privado via CLI | 🔒 PRO_KEY Pro |
 
 > ⚠ **Este README é uma vitrine sem código.**
 > O `firebase.json` killer, `apphosting.yaml`,
