@@ -3,7 +3,7 @@ layout: home
 hero:
   name: "DomisDocs :"
   text: Plataforma de Documentação Técnica + SaaS Boilerplate.
-  tagline: Do Deploy Angular 20 ao SaaS Next 15 completo - Firebase Hosting, Functions, Stripe e automação Kiwify.
+  tagline: Do Deploy Angular 20 ao SaaS - Next.Js 15 completo - Firebase Hosting , Functions , Stripe e automação Kiwify.
   actions:
     - theme: alt
       text: "🚀 Documentação Técnica"
