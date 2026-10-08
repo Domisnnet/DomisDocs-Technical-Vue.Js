@@ -6,10 +6,10 @@
 
 ![Status](https://img.shields.io/badge/Status-Documentação_Pública-4CAF50?style=flat-square)
 ![Angular](https://img.shields.io/badge/Angular-20-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js&logoColor=white)
+![Next.Js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind V4](https://img.shields.io/badge/Tailwind-v4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-20.19%2B-339933?style=flat-square&logo=node.js&logoColor=white)
+![Node.Js](https://img.shields.io/badge/Node.js-20.19%2B-339933?style=flat-square&logo=node.js&logoColor=white)
 [![Licença](https://img.shields.io/badge/License-Private_Commercial_v1.3-red.svg)](https://github.com/Domisnnet/DomisDocs-Technical/blob/main/LICENSE)
 ![DomisDocs](https://raw.githubusercontent.com/Domisnnet/DomisDocs-Technical/main/docs/public/images/domisdocs.png)
 
@@ -17,19 +17,20 @@
 > Este repositório é PÚBLICO e contém apenas a documentação gratuita e a vitrine dos produtos.
 > Os códigos dos Packs ficam no repo privado.
 
-**Projeto de referência:** Shadow-Flip-Angular & Next.Js 15
+**Projeto de referência:** Shadow-Flip-Angular & `Next.Js 15`
 **Nível:** Intermediário → Avançado
-&nbsp; **Domínio:** domisdocs-602fc.web.app
 
 ---
 
-## 📚 Tabela de Conteúdo
+<h2>📚 Tabela de Conteúdo</h2>
+
 | 💻 O Projeto | 🛠 Técnico | 🤝 Comercial |
 | :---: | :---: | :---: |
 | [![1. Sobre](https://img.shields.io/badge/1%20-%20Sobre-4CAF50)](#sobre-o-projeto) | [![5. Destaques](https://img.shields.io/badge/5%20-%20Destaques-607D8B)](#destaques-tecnicos) | [![9. Código](https://img.shields.io/badge/9%20-%20Código-795548)](#codigo-fonte) |
 | [![2. Techs](https://img.shields.io/badge/2%20-%20Techs-2196F3)](#tecnologias-utilizadas) | [![6. Deploy](https://img.shields.io/badge/6%20-%20Deploy-009688)](#fluxo-de-deploy) | [![10. Créditos](https://img.shields.io/badge/10%20-%20Créditos-607D8B)](#créditos) |
 | [![3. Acessar](https://img.shields.io/badge/3%20-%20Acessar-FF9800)](#como-acessar) | [![7. Contribuir](https://img.shields.io/badge/7%20-%20Contribuir-3F51B5)](#como-contribuir) | [![11. Licença](https://img.shields.io/badge/11%20-%20Licença-E91E63)](#licenca) |
-| [![4. Funções](https://img.shields.io/badge/4%20-%20Funções-9C27B0)](#funcionalidades) | [![8. FAQ](https://img.shields.io/badge/8%20-%20FAQ-FFC107)](#faq) | [![12. Perfil](https://img.shields.io/badge/12%20-%20Perfil-212121)](#perfil-do-github) |
+| [![4. Funções](https://img.shields.io/badge/4%20-%20Funções-9C27B0)](#funcionalidades) | [![8. FAQ](https://img.shields.io/badge/8%20-%20FAQ-FFC107)](#faq) | [![12. Perfil](https://img.shields.io/badge/12%20-%20Perfil-212121)](#perfil-do-github)
+
 
 ---
 
@@ -53,10 +54,10 @@ Esta plataforma resolve o deploy em 2 camadas isoladas:
 <h2 id="tecnologias-utilizadas">2. ⚙ Tecnologias da Vitrine</h2>
 
 | Camada | Tecnologias | Descrição |
-| :--- | :--- | :--- |
-| **Docs Grátis** | Angular 20 + VitePress | Guia SPA documentado |
-| **Pack Lite** | Next.js 15 + Tailwind v4 + shadcn/ui | App Router base limpa |
-| **Pack Pro** | Stripe + Firebase Functions + SSR | Lite + Checkout e Functions |
+| :--- | :--- | :---  |
+| **DomisPacks Free** | `Angular 20` + `VitePress` | Guia SPA documentado                      |
+| **DomisPacks Lite** | `Next.js 15` + `Tailwind v4` + `shadcn/ui` | `App Router` base limpa   |
+| **DomisPacks Pro**  | `Stripe` + `Firebase Functions` + `SSR` | Lite + Checkout e `Functions`|
 
 ---
 
@@ -76,11 +77,11 @@ Para conhecer a Plataforma clique abaixo:
 
 | Funcionalidade | Descrição |
 | :--- | :--- |
-| ⚡ Build Angular | `ng build --configuration production` |
-| 📁 Pasta Correta | `dist/nome-do-projeto/browser/` |
-| 🔄 SPA | `rewrites` para não dar 404 no F5 |
-| 📦 Packs | Next.Js 15 + Tailwind V4 |
-| 🚀 Deploy | `firebase deploy --only hosting` |
+| ⚡ Build Angular | `ng build --configuration production`|
+| 📁 Pasta Correta | `dist/nome-do-projeto/browser/`      |
+| 🔄 SPA | `rewrites` para não dar 404 no F5              |
+| 📦 Packs | `Next.Js 15` + `Tailwind v4`                 |
+| 🚀 Deploy | `firebase deploy --only hosting`            |
 
 ---
 
@@ -142,7 +143,8 @@ firebase deploy --only hosting
 | **04** | **Push** | `git push origin feature/Melhoria` |
 | **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/DomisDocs-Technical/compare) |
 
-### 🐛 Encontrou um problema?
+<h3>🐛 Encontrou um problema?</h3>
+
 [![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/DomisDocs-Technical?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/DomisDocs-Technical/issues)
 [![Reportar Erro](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/DomisDocs-Technical/issues/new)
 
@@ -152,29 +154,29 @@ firebase deploy --only hosting
 <h2 id="faq">8. 🧠 Perguntas Frequentes</h2>
 
 <details>
-<summary><strong>Por que rodar ng build antes?</strong></summary>
+<summary><strong>Por que rodar ng build antes ❓</strong></summary>
 O Firebase Hosting só hospeda arquivos estáticos. O build compila os códigos para dentro de <code>dist/</code>, que é a pasta enviada ao servidor.
 </details>
 
 <details>
-<summary><strong>Por que a pasta browser existe?</strong></summary>
+<summary><strong>Por que a pasta browser existe ❓</strong></summary>
 É a estrutura padrão do Angular 20 para SPA. Confirme sempre o caminho do <code>index.html.</code>
 </details>
 
 <details>
-<summary><strong>Para que serve o rewrites?</strong></summary>
+<summary><strong>Para que serve o rewrites ❓</strong></summary>
 Encaminha todas as URLs para o <code>index.html</code>, permitindo o Angular Router sem erro 404.
 </details>
 
 <details>
-<summary><strong>Qual a diferença entre Lite e Pro?</strong></summary>
+<summary><strong>Qual a diferença entre Lite e Pro ❓</strong></summary>
 - Lite: Next 15 + Tailwind v4 + shadcn - base limpa.
 - Pro: Tudo do Lite + Stripe Checkout + Firebase Functions + liberação automática via Kiwify.
 </details>
 
 <details>
-<summary><strong>O que são os DomisPacks?</strong></summary>
-São: <code>Framework Packs</code> que sobem os pacotes em <code>Next.js 15 + Tailwind v4</code> do repo privado.
+<summary><strong>O que são os DomisPacks ❓</strong></summary>
+São: <code>Framework Packs</code> que sobem os pacotes em <code>Next.Js 15 + Tailwind v4</code> do repo privado.
 </details>
 
 ---
