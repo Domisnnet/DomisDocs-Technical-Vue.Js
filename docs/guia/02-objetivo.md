@@ -4,7 +4,7 @@ title: Objetivo
 
 <h1>🎯 2. Objetivo:</h1>
 
-Este guia, parte integrante do **DomisDocs**, mostra como conectar um projeto **Angular 20 existente** a um projeto já criado no **Firebase** e publicá-lo utilizando o **Firebase Hosting**. O projeto de referência utilizado como exemplo é o **Shadow-Flip-Angular**.
+Este guia, parte integrante do **DomisDocs**, mostra como conectar um projeto `Angular 20` existente a um projeto já criado no `Firebase` e publicá-lo utilizando o `Firebase Hosting`&nbsp;. O projeto de referência utilizado como exemplo é o: **Shadow-Flip-Angular**.
 
 O processo inclui:
 
@@ -20,4 +20,4 @@ O processo inclui:
 
 O Firebase utiliza o arquivo `firebase.json` para definir o comportamento do Hosting, incluindo a pasta pública, arquivos ignorados, rewrites e redirects.
 
-> ⚠️ Este tutorial considera uma aplicação Angular client-side/SPA. Projetos com SSR ou arquitetura full-stack podem exigir configuração diferente, incluindo o Firebase App Hosting.
+> ⚠️ Este tutorial considera uma aplicação `Angular client-side/SPA`&nbsp;. Projetos com `SSR` ou arquitetura Full-Stack podem exigir configuração diferente, incluindo o `Firebase App Hosting.`

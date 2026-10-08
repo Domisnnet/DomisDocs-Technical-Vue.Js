@@ -2,7 +2,7 @@
 title: Troubleshooting
 ---
 
-<h1>🛠️ 14. Troubleshooting</h1>
+<h1>🛠️ 14. Troubleshooting:</h1>
 
 <h3>❌ Firebase CLI não reconhecido:</h3>
 

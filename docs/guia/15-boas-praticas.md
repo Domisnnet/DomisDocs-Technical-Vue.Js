@@ -4,7 +4,7 @@ title: Boas Práticas
 
 <h1>🧠 15. Boas Práticas:</h1>
 
-<h3>⚡ Utilize o build de produção</h3>
+<h3>⚡ Utilize o build de produção:</h3>
 
 > Para publicar, prefira:
 
@@ -90,22 +90,22 @@ firebase use
 - Arquivos `.env` contendo segredos.
 - Credenciais de service account.
 - Tokens de acesso.
-- Arquivos administrativos do Firebase.
+- Arquivos administrativos do `Firebase.`
 
 Observação:
-> 💡 A configuração do Firebase utilizada no front-end não deve ser confundida com credenciais privadas.
+> 💡 A configuração do `Firebase` utilizada no Front-End não deve ser confundida com credenciais privadas.
 > 
-> Segredos devem permanecer em ambientes protegidos, no back-end ou no pipeline de CI/CD.
+> Segredos devem permanecer em ambientes protegidos, no Back-End ou no `Pipeline` de `CI/CD.`
 
 ---
 
 <h3>Angular client-side × SSR:</h3>
 
-> Este tutorial utiliza o **Firebase Hosting clássico** para uma aplicação Angular client-side/SPA.
+> Este tutorial utiliza o `Firebase Hosting` clássico para uma aplicação `Angular/SPA.`
 >
-> Se o projeto utiliza Angular SSR, prerenderização ou uma arquitetura full-stack, o processo de publicação pode ser diferente.
+> Se o projeto utiliza `Angular SSR` , prerenderização ou uma arquitetura Full-Stack , o processo de publicação pode ser diferente.
 
-- Para aplicações Angular com necessidades de renderização no servidor e integração com GitHub, considere o **Firebase App Hosting**.
+- Para aplicações Angular com necessidades de renderização no servidor e integração com `GitHub` , considere o `Firebase App Hosting.`
 
 > 
 | 💡 Lembrete:                                                 |
@@ -116,4 +116,4 @@ Observação:
 | Use canais de preview antes de produção                      |
 | Confirme ambiente ativo com `firebase use` antes de publicar |
 | Nunca publique credenciais privadas na pasta pública         |
-| Para projetos com SSR, considere Firebase App Hosting        |
+| Para projetos com `SSR` , considere `Firebase App Hosting`   |

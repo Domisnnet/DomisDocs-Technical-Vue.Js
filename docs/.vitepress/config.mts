@@ -13,13 +13,7 @@ export default defineConfig({
     nav: [
       { text: 'Início', link: '/' },
       { text: '📖 Documentação Técnica', link: '/guia/' },
-      { text: '🛒 DomisPacks', link: '/packs/' },
-      {
-        text: '🔗 Links',
-        items: [
-          { text: 'Repositório Oficial', link: 'https://github.com/Domisnnet/DomisDocs-Technical' }
-        ]
-      }
+      { text: '🛒 DomisPacks', link: '/packs/' }
     ],
     sidebar: {
       '/guia/': [

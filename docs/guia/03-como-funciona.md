@@ -31,7 +31,7 @@ Firebase Hosting
 Aplicação publicada
 ```
 
-> **Regra de ouro:** o valor de `hosting.public` deve apontar para a pasta que contém diretamente o `index.html` gerado pelo build.
+> ✨ **Regra de ouro:** o valor de `hosting.public` deve apontar para a pasta que contém diretamente o `index.html` gerado pelo build.
 
 Em projetos Angular recentes, essa pasta pode ser:
 

@@ -5,31 +5,31 @@ hero:
   text: Plataforma de Documentação Técnica + SaaS Boilerplate.
   tagline: Do Deploy Angular 20 ao SaaS Next 15 completo - Firebase Hosting, Functions, Stripe e automação Kiwify.
   actions:
-    - theme: brand
+    - theme: alt
       text: "🚀 Documentação Técnica"
       link: /guia/
     - theme: brand
-      text: "🛒 DomisPacks"
+      text: "🛒 DomisPacks Premium"
       link: /packs/
 features:
     - icon: 🚀
       title: Deploy Angular 20 + Firebase
-      details: Guia completo do zero ao publicado - build, rotas SPA, rewrites e checklist de produção.
+      details: Guia completo do zero ao publicado - build , rotas SPA , rewrites e checklist de produção.
     - icon: ⚡
-      title: SaaS Next 15 + Tailwind v4
-      details: Boilerplate com App Router, shadcn/ui, Tailwind v4 e estrutura pronta para SaaS.
+      title: SaaS -  Next.Js 15 + Tailwind v4
+      details: Boilerplate com App Router , shadcn/ui , Tailwind v4 e estrutura pronta para SaaS.
     - icon: 💳
       title: Stripe Checkout Pronto
-      details: Integração de pagamento, webhooks e liberação automática de acesso Pro.
+      details: Integração de pagamento, webhooks e liberação automática de acesso.
     - icon: 🔥
       title: Bônus Firebase Killer
       details: Hosting + Functions + Firestore - arquitetura que substitui backend caro.
     - icon: 🤖
       title: Automação Kiwify + GitHub
-      details: Webhook kiwifyWebhook gera PRO_KEY e convida automaticamente para o repo privado DomisPacks-Pro.
+      details: Webhook kiwifyWebhook que gera PRO_KEY  única.
     - icon: 🧠
       title: Troubleshooting e Boas Práticas
-      details: Erros reais de deploy (public, functions timeout, Node 22) resolvidos e documentados.
+      details: Erros reais de deploy - public , functions timeout , Node 22 resolvidos e documentados.
 ---
 
 <style>

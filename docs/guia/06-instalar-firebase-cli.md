@@ -2,16 +2,17 @@
 title: Instalar o Firebase CLI
 ---
 
-<h1>📦 6. Instalar o Firebase CLI</h1>
+<h1>📦 6. Instalar o Firebase CLI:</h1>
 
-Abra o terminal integrado do VS Code e execute:
-No terminal:
+> Abra o terminal integrado do VS Code e execute:
+
+- No terminal:
 
 ```bash
 npm install -g firebase-tools
 firebase --version
 ```
-Exemplo:
+- Exemplo:
 
 ```text
 15.27.0

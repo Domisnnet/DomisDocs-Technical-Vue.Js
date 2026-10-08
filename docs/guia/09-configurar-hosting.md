@@ -2,16 +2,17 @@
 title: Configurar o Firebase Hosting
 ---
 
-<h1>🔥 9. Configurar o Firebase Hosting</h1>
+<h1>🔥 9. Configurar o Firebase Hosting:</h1>
 
 <h3>Inicializar:</h3>
 
-Para inicializar Execute:
+> Para inicializar Execute:
+
 ```bash
 firebase init hosting
 ```
 
-Durante o assistente, selecione ou informe:
+- Durante o assistente, selecione ou informe:
 
 | Pergunta                             | Resposta                        |
 | :----------------------------------- | :------------------------------ |
@@ -27,18 +28,18 @@ Durante o assistente, selecione ou informe:
 firebase init
 ```
 
-selecione apenas o recurso:
+- selecione apenas o recurso:
 
 ```text
 Hosting: Configure files for Firebase Hosting and optionally set up GitHub Action deploys
 ```
 
-Não é necessário selecionar Firestore, Functions, Storage ou outros produtos quando o objetivo for apenas publicar o front-end Angular.
+> Não é necessário selecionar `Firestore` , `Functions` , `Storage` ou outros produtos quando o objetivo for apenas publicar o Front-End Angular.
 
 
 ---
 
-<h3>🔧 Configurar o <code>firebase.json</code></h3>
+<h3>🔧 Configurar o <code>firebase.json:</code></h3>
 
 - Abra:
 
@@ -52,13 +53,13 @@ firebase.json
 
 <h3>Exemplo com <code>browser:</code></h3>
 
-Se o build gerar:
+- Se o build gerar:
 
 ```text
 dist/shadow-flip-angular/browser/index.html
 ```
 
-utilize:
+- utilize:
 
 ```json
 {
@@ -81,13 +82,13 @@ utilize:
 
 <h3>Exemplo sem <code>browser:</code></h3>
 
-Se o build gerar:
+- Se o build gerar:
 
 ```text
 dist/shadow-flip-angular/index.html
 ```
 
-utilize:
+- utilize:
 
 ```json
 {
@@ -119,6 +120,9 @@ utilize:
 | `destination` | Define o recurso que será entregue        |
 
 
-> 💡 **Atenção:** se você executar `firebase init` novamente e selecionar Hosting, revise o `firebase.json` depois. A inicialização pode alterar a seção `hosting` da configuração existente.
+💡 **Atenção:** se você executar `firebase init` novamente e selecionar Hosting, revise o `firebase.json` depois.
 
-**Observação:** O rewrites garante que rotas internas funcionem sem erro **404.**
+A inicialização pode alterar a seção `hosting` da configuração existente.
+
+Observação: 
+> ✨ O `rewrites` garante que rotas internas funcionem sem erro `404.`

@@ -2,7 +2,7 @@
 title: Próximos Deploys
 ---
 
-<h1>🔁 12. Próximos Deploys</h1>
+<h1>🔁 12. Próximos Deploys:</h1>
 
 > Depois que a configuração inicial estiver pronta, os próximos deploys ficam muito mais simples.
 
@@ -20,7 +20,7 @@ npm run build
 firebase deploy --only hosting
 ```
 
-<h3>Automatizando pelo <code>package.json:</code></h3>
+<h4>Automatizando pelo <code>package.json:</code></h4>
 
 > Você também pode criar um script:
 
@@ -39,9 +39,9 @@ firebase deploy --only hosting
 npm run deploy:hosting
 ```
 
-<h3>Deploy de todos os recursos Firebase:</h3>
+<h4>Deploy de todos os recursos Firebase:</h4>
 
-> O comando:
+> Basta executar o comando:
 
 ```bash
 firebase deploy

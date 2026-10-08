@@ -2,26 +2,32 @@
 title: Fazer o Deploy
 ---
 
-<h1>🚀 11. Fazer o Deploy em Produção</h1>
+<h1>🚀 11. Fazer o Deploy em Produção:</h1>
 
-> Depois de validar o build e o `firebase.json`, Execute:
+> Depois de validar o build e o &nbsp;`firebase.json` , Execute:
 ```bash
 firebase deploy --only hosting
 ```
-✅ Mensagem esperada:
+
+---
+
+<h4>✅ Mensagem esperada:</h4>
 
 ```bash
 Deploy complete!
 Hosting URL: https://shadow-angular.web.app
 ```
 
-Abra a URL no navegador e valide a aplicação em produção.
+> Abra a URL no navegador e valide a aplicação em produção.
 
-O comando:
+---
+
+<h4>O comando:</h4>
 
 ```bash
 firebase deploy --only hosting
 ```
+
 publica somente os recursos relacionados ao Firebase Hosting.
 
-> 💡 Prefira --only hosting para publicar SOMENTE o site, evitando alterar outros recursos do Firebase.
+> 💡 Prefira `--only hosting` para publicar SOMENTE o site, evitando alterar outros recursos do `Firebase.`

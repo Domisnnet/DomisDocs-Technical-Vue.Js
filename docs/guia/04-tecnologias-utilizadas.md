@@ -19,7 +19,7 @@ title: Tecnologias Utilizadas
 
 <h3>✅ Verificar Versões:</h3>
 
-Verifique as ferramentas instaladas:
+> Verifique as ferramentas instaladas:
 
 ```bash
 node --version

@@ -2,28 +2,32 @@
 title: Validar e Testar Localmente
 ---
 
-<h1>🧪 10. Validar e Testar Localmente</h1>
+<h1>🧪 10. Validar e Testar Localmente:</h1>
 
 <h3>Antes de publicar:</h3>
 
 > Antes do deploy, você pode testar o Hosting localmente.
 
-Execute:
+- Execute:
+
 ```bash
 ng build --configuration production
 ```
-depois:
+- Depois:
+
 ```bash
 firebase emulators:start --only hosting
 ```
 
 > O Firebase exibirá uma URL local, normalmente semelhante a:
 
-```text
+```bash
 http://127.0.0.1:5000
 ```
 
-Em seguida faça a Validação:
+---
+
+> Em seguida faça a Validação ✔️:
 
 - ✅ Página inicial carrega
 - ✅ Navegação entre rotas
@@ -34,8 +38,8 @@ Em seguida faça a Validação:
 - ✅ Links externos
 - ✅ Integrações com APIs
 
-Para encerrar o emulador:
+- Para encerrar o emulador:
 
-```text
+```bash
 Ctrl + C
 ```

@@ -6,13 +6,13 @@ title: Login e Associação ao Firebase
 
 <h2>Autenticação:</h2>
 
-Para Logar Execute:
+> Para Logar Execute:
 
 ```bash
 firebase login
 ```
 
-depois:
+- depois:
 
 ```bash
 firebase projects:list
@@ -24,7 +24,7 @@ firebase projects:list
 >
 > O projeto criado no Firebase Console deverá aparecer na lista.
 
-Exemplo:
+- Exemplo:
 
 ```text
 Project Display Name    Project ID
@@ -43,7 +43,7 @@ firebase use --add
 
 <h3>📂 Entrar na pasta do projeto:</h3>
 
-Navegue até a pasta raiz do projeto Angular.
+> Navegue até a pasta raiz do projeto Angular.
 
 <h4>Windows:</h4>
 
